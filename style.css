@@ -1,0 +1,16 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  #projects .card {
+    transition: transform 0.2s;
+  }
+  
+  #projects .card:hover {
+    transform: scale(1.05);
+  }
+  
